@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Truffle Marketing - Your 360 Marketing Partner</title>
+  <style>
+    body {
+      background-color: #000000;
+      color: #ffffff;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #3029ff;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+    }
+    #content {
+      padding: 20px;
+    }
+    .highlight {
+      color: #a97542;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Truffle Marketing</h1>
+  </header>
+  <div id="content">
+    <h2>About Truffle Marketing</h2>
+    <p>We are a <span class="highlight">360 marketing</span> agency dedicated to helping restaurants succeed. In under 6 months, we perform a full revamp of your restaurant's marketing strategy to make you <span class="highlight">omnipresent</span> and boost customer engagement.</p>
+
+    <h2>About Me</h2>
+    <p>Hello, I'm Alexander Lemos. I am passionate about marketing and helping restaurants thrive. With Truffle Marketing, we aim to bring your restaurant to the forefront of the culinary scene.</p>
+  </div>
+</body>
+</html>
